@@ -1,0 +1,42 @@
+﻿@font-face {
+  font-family: 'Inria Serif';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/inriaserif/v18/fC16PYxPY3rXxEndZJAzN3SuT4THvl-Fag.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inria Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/inriaserif/v18/fC1nPYxPY3rXxEndZJAzN3SuRy_lrg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inria Serif';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/inriaserif/v18/fC16PYxPY3rXxEndZJAzN3SuT5TAvl-Fag.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/inriaserif/v18/fC14PYxPY3rXxEndZJAzN3wAVTjCjlg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/inriaserif/v18/fC1lPYxPY3rXxEndZJAzN3Srdyg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inria Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/inriaserif/v18/fC14PYxPY3rXxEndZJAzN3wQUjjCjlg.ttf) format('truetype');
+}

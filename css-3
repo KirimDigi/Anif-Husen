@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Amiri Quran';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/amiriquran/v19/_Xmo-Hk0rD6DbUL4_vH8Zp5q5ig.ttf) format('truetype');
+}

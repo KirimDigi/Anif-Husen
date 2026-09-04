@@ -1,0 +1,660 @@
+Uri: https://bycativestudio.com/comments/feed/
+File Name: C:\Downloaded Web Sites\bycativestudio.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bycativestudio.com/feed/
+File Name: C:\Downloaded Web Sites\bycativestudio.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bycativestudio.com/octavia-fernando/
+File Name: C:\Downloaded Web Sites\bycativestudio.com\octavia-fernando\index.htm
+Content Type: text/html
+
+Uri: https://bycativestudio.com/octavia-fernando/feed/
+File Name: C:\Downloaded Web Sites\bycativestudio.com\octavia-fernando\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css?ver=3.34.1
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor-pro\assets\css\conditionals\transitions.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor-pro/assets/css/widget-countdown.min.css?ver=3.34.1
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor-pro\assets\css\widget-countdown.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor-pro/assets/css/widget-gallery.min.css?ver=3.34.1
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor-pro\assets\css\widget-gallery.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\conditionals\shapes.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\css\widget-video.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-grow.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.48.0
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.9.7
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.9.7
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/weddingpress/addons/comment-kit2/css/cui_style.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\weddingpress\addons\comment-kit2\css\cui_style.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/weddingpress/assets/css/exad-styles.min.css?ver=7.0
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\weddingpress\assets\css\exad-styles.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/weddingpress/assets/css/guest-book.css?ver=3.2.1.4
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\weddingpress\assets\css\guest-book.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/weddingpress/assets/css/modules/bdt-uikit.css?ver=3.15.1
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\weddingpress\assets\css\modules\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/weddingpress/assets/css/modules/ep-helper.css?ver=3.2.1.4
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\weddingpress\assets\css\modules\ep-helper.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/weddingpress/assets/css/new-icon.min.css?ver=3.2.1.4
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\weddingpress\assets\css\new-icon.min.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/weddingpress/assets/css/wdp-copy-widget.css?ver=3.2.1.4
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\weddingpress\assets\css\wdp-copy-widget.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/weddingpress/assets/css/wdp.css?ver=3.2.1.4
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\weddingpress\assets\css\wdp.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/plugins/wp-content-copy-protector/images/warning.png
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\plugins\wp-content-copy-protector\images\warning.png
+Content Type: image/png
+
+Uri: https://bycativestudio.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.7
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\themes\hello-elementor\assets\css\header-footer.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.7
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\themes\hello-elementor\assets\css\reset.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.7
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\themes\hello-elementor\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/1-Octavia.webp
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\1-Octavia.webp
+Content Type: image/webp
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/12-Octavia.webp
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\12-Octavia.webp
+Content Type: image/webp
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/13-Octavia.webp
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\13-Octavia.webp
+Content Type: image/webp
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/2-Octavia.webp
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\2-Octavia.webp
+Content Type: image/webp
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/3-Octavia.webp
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\3-Octavia.webp
+Content Type: image/webp
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/4-Octavia.webp
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\4-Octavia.webp
+Content Type: image/webp
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/6-Octavia.webp
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\6-Octavia.webp
+Content Type: image/webp
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/7-Octavia.webp
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\7-Octavia.webp
+Content Type: image/webp
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/8-Octavia.webp
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\8-Octavia.webp
+Content Type: image/webp
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/9-Octavia.webp
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\9-Octavia.webp
+Content Type: image/webp
+
+Uri: https://bycativestudio.com/wp-content/uploads/2026/05/Sketch-Hijau-With-The-Grace.png
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\2026\05\Sketch-Hijau-With-The-Grace.png
+Content Type: image/png
+
+Uri: https://bycativestudio.com/wp-content/uploads/elementor/css/post-148720.css?ver=1781673261
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\elementor\css\post-148720.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/uploads/elementor/css/post-8.css?ver=1781667610
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\elementor\css\post-8.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-content/uploads/fonts/GingerBrand.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\fonts\GingerBrand.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bycativestudio.com/wp-content/uploads/useanyfont/uaf.css?ver=1778034087
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-content\uploads\useanyfont\uaf.css
+Content Type: text/css
+
+Uri: https://bycativestudio.com/wp-json/
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://bycativestudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbycativestudio.com%2Foctavia-fernando%2F
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://bycativestudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbycativestudio.com%2Foctavia-fernando%2F&format=xml
+File Name: C:\Downloaded Web Sites\bycativestudio.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js
+File Name: C:\Downloaded Web Sites\bycativestudio.com\ajax\libs\xlsx\0.17.0\xlsx.full.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Amiri+Quran:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\bycativestudio.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Bodoni+Moda:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\bycativestudio.com\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Gravitas+One:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\bycativestudio.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Inria+Serif:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\bycativestudio.com\css-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\bycativestudio.com\css-9
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\bycativestudio.com\css-8
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Playfair+Display:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\bycativestudio.com\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Prata:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\bycativestudio.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\bycativestudio.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\bycativestudio.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/amiriquran/v19/_Xmo-Hk0rD6DbUL4_vH8Zp5q5ig.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\amiriquran\v19\_Xmo-Hk0rD6DbUL4_vH8Zp5q5ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZ9sRItnDN.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZ9sRItnDN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZgcRItnDN.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZgcRItnDN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZGsNItnDN.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZGsNItnDN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZKMNItnDN.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZKMNItnDN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZqMRItnDN.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZqMRItnDN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZz8RItnDN.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT07PxzY382XsXX63LUYJSPUqb0pL6OQqxrZLnVbvZedvJtj-V7tIaZz8RItnDN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oand8Id4sQ.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oand8Id4sQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oc7d8Id4sQ.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oc7d8Id4sQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oefd8Id4sQ.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oefd8Id4sQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oU7a8Id4sQ.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oU7a8Id4sQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oXza8Id4sQ.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oXza8Id4sQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oZDd8Id4sQ.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\bodonimoda\v28\aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oZDd8Id4sQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/gravitasone/v21/5h1diZ4hJ3cblKy3LWakKQmqCm5J.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\gravitasone\v21\5h1diZ4hJ3cblKy3LWakKQmqCm5J.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriaserif/v18/fC14PYxPY3rXxEndZJAzN3wAVTjCjlg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\inriaserif\v18\fC14PYxPY3rXxEndZJAzN3wAVTjCjlg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriaserif/v18/fC14PYxPY3rXxEndZJAzN3wQUjjCjlg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\inriaserif\v18\fC14PYxPY3rXxEndZJAzN3wQUjjCjlg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriaserif/v18/fC16PYxPY3rXxEndZJAzN3SuT4THvl-Fag.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\inriaserif\v18\fC16PYxPY3rXxEndZJAzN3SuT4THvl-Fag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriaserif/v18/fC16PYxPY3rXxEndZJAzN3SuT5TAvl-Fag.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\inriaserif\v18\fC16PYxPY3rXxEndZJAzN3SuT5TAvl-Fag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriaserif/v18/fC1lPYxPY3rXxEndZJAzN3Srdyg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\inriaserif\v18\fC1lPYxPY3rXxEndZJAzN3Srdyg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inriaserif/v18/fC1nPYxPY3rXxEndZJAzN3SuRy_lrg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\inriaserif\v18\fC1nPYxPY3rXxEndZJAzN3SuRy_lrg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\nunitosans\v19\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\playfairdisplay\v40\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-sWPCms.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\prata\v22\6xKhdSpbNNCT-sWPCms.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bycativestudio.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/qr-code-styling@1.5.0/lib/qr-code-styling.js
+File Name: C:\Downloaded Web Sites\bycativestudio.com\qr-code-styling@1.5.0\lib\qr-code-styling.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/iframe_api
+File Name: C:\Downloaded Web Sites\bycativestudio.com\iframe_api
+Content Type: text/javascript
+

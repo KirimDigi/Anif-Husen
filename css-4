@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Prata';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/prata/v22/6xKhdSpbNNCT-sWPCms.ttf) format('truetype');
+}

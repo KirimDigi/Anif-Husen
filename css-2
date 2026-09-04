@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Gravitas One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/gravitasone/v21/5h1diZ4hJ3cblKy3LWakKQmqCm5J.ttf) format('truetype');
+}
