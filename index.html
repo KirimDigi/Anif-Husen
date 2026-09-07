@@ -246,7 +246,22 @@ if(e)
 <link href="./KirimDigi.ico" rel="icon" sizes="192x192"/>
 <link href="./KirimDigi.ico" rel="apple-touch-icon"/>
 <meta content="./KirimDigi.ico" name="msapplication-TileImage"/>
-<style id="kirki-inline-styles"></style> <style>body { background-color: #ebebdd !important; }</style><meta content="width=device-width, initial-scale=1.0, viewport-fit=cover" name="viewport"/></head>
+<style id="kirki-inline-styles"></style> <style>body { background-color: #ebebdd !important; }</style><meta content="width=device-width, initial-scale=1.0, viewport-fit=cover" name="viewport"/>
+	<!-- PERFORMANCE FIX 2026-09-08: preload critical, smooth scroll -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preconnect" href="https://cdnjs.cloudflare.com">
+	<link rel="preload" as="image" href="./coverpage.png" fetchpriority="high">
+	<link rel="preload" as="image" href="./nama%20mempelai.png" fetchpriority="high">
+	<style>
+	html{scroll-behavior:smooth}
+	body{ text-rendering:optimizeLegibility; -webkit-font-smoothing:antialiased }
+	/* will-change for reveal animations */
+	.slideup,.slidedown,.slideleft,.slideright,.zoom-in{ will-change: transform, opacity }
+	/* reduce layout thrash on fixed body lock */
+	body.locked{ overflow:hidden !important; position:fixed !important; width:100% }
+	</style>
+</head>
 <body class="wp-singular post-template post-template-elementor_canvas single single-post postid-148720 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-hello-elementor unselectable hello-elementor-default elementor-default elementor-template-canvas elementor-kit-8 elementor-page elementor-page-148720">
 <div class="elementor elementor-148720" data-elementor-id="148720" data-elementor-post-type="post" data-elementor-type="wp-post">
 <div class="elementor-element elementor-element-ef78d52 hidden e-con-full e-flex e-con e-parent" data-e-type="container" data-element_type="container" data-id="ef78d52" data-settings='{"background_background":"classic"}' id="section-cover">
@@ -394,8 +409,8 @@ if(e)
 </div>
 <div class="elementor-element elementor-element-7e466f4 elementor-countdown--label-block elementor-widget elementor-widget-countdown" data-e-type="widget" data-element_type="widget" data-id="7e466f4" data-widget_type="countdown.default">
 <div class="elementor-widget-container">
-<div class="elementor-countdown-wrapper" data-date="1790064000">
-<div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-days"></span> <span class="elementor-countdown-label">Days</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-hours"></span> <span class="elementor-countdown-label">Hours</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-minutes"></span> <span class="elementor-countdown-label">Minutes</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-seconds"></span> <span class="elementor-countdown-label">Seconds</span></div> </div>
+<div class="elementor-countdown-wrapper" data-date="1790038800" data-countdown-init="fallback">
+<div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-days">00</span> <span class="elementor-countdown-label">Days</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-hours">00</span> <span class="elementor-countdown-label">Hours</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-minutes">00</span> <span class="elementor-countdown-label">Minutes</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-seconds">00</span> <span class="elementor-countdown-label">Seconds</span></div> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-474183b elementor-widget elementor-widget-image" data-e-type="widget" data-element_type="widget" data-id="474183b" data-widget_type="image.default">
@@ -731,7 +746,7 @@ if(e)
 <div class="elementor-element elementor-element-128700d elementor-widget elementor-widget-video" data-e-type="widget" data-element_type="widget" data-id="128700d" data-settings='{"video_type":"hosted","autoplay":"yes","play_on_mobile":"yes","loop":"yes","mute":"yes"}' data-widget_type="video.default">
 <div class="elementor-widget-container">
 <div class="e-hosted-video elementor-wrapper elementor-open-inline">
-<video autoplay="" class="elementor-video" controlslist="nodownload" loop="" muted="muted" playsinline="" src="./kamera.mp4"></video>
+<video autoplay="" class="elementor-video" controlslist="nodownload" loop="" muted="muted" playsinline=""  preload="metadata" poster="./coverpage.png" src="./kamera.mp4"></video>
 </div>
 </div>
 </div>
@@ -846,7 +861,7 @@ if(e)
 			</script>
 <div class="audio-box" id="audio-container">
 <!-- LOCAL AUDIO PLAYER START-->
-<audio id="song" loop="" src="./LUGIA - Memikat.mp3"></audio>
+<audio id="song" loop preload="metadata" src="./LUGIA - Memikat.mp3"></audio>
 <script>
 				var player = null; // YT Player placeholder
 				function toggleAudio() {
@@ -961,20 +976,21 @@ window.addEventListener('DOMContentLoaded', function() {
 function lockSection() {
     if (isSectionLocked) {
         disableScrolling();
-        document.body.style.position = "fixed";
-        document.body.style.overflowY = "scroll";
-        document.body.style.height = "100vh";
-        document.getElementById("section-cover").style.width = "100vw"; // Menambahkan gaya untuk membuat cover full width
+        document.body.classList.add("locked");
+        document.body.style.top = `-${window.scrollY}px`;
+        document.getElementById("section-cover").style.width = "100vw";
     }
 }
 
 // Fungsi untuk membuka tampilan section
 function unlockSection() {
+    const scrollY = document.body.style.top;
+    document.body.classList.remove("locked");
+    document.body.style.top = "";
+    document.getElementById("section-cover").style.width = "";
+    document.getElementById("tombol-buka").style.display = "none";
+    if(scrollY) window.scrollTo(0, parseInt(scrollY||"0")*-1);
     enableScrolling();
-    document.body.style.position = "";
-    document.body.style.overflowY = "";
-    document.getElementById("section-cover").style.width = ""; // Menghapus gaya untuk mengembalikan lebar cover ke nilai aslinya
-    document.getElementById("tombol-buka").style.display = "none"; // Menyembunyikan tombol "tombol-buka"
 }
 
 document.getElementById("tombol-buka").onclick = function() {
@@ -983,15 +999,10 @@ document.getElementById("tombol-buka").onclick = function() {
 };
 
 function disableScrolling() {
-    var x = window.scrollX;
-    var y = window.scrollY;
-    window.onscroll = function() {
-        window.scrollTo(x, y);
-    };
+    document.documentElement.style.scrollBehavior = 'auto';
 }
-
 function enableScrolling() {
-    window.onscroll = null;
+    document.documentElement.style.scrollBehavior = '';
 }
 
 function playAudio(){
@@ -1092,9 +1103,13 @@ function revealElements(selector) {
   });
 }
 
+let ticking=false;
 window.addEventListener("scroll", function() {
-  revealElements(".slideup, .slidedown, .slideleft, .slideright, .zoom-in, .zoom-out");
-});
+  if(!ticking){
+    requestAnimationFrame(()=>{ revealElements(".slideup, .slidedown, .slideleft, .slideright, .zoom-in, .zoom-out"); ticking=false; });
+    ticking=true;
+  }
+}, {passive:true});
 </script>
 <style>
 /* Slideup */
@@ -1851,5 +1866,39 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 <!-- Trigger GitHub Actions Deploy -->
+
+<script>
+// FALLBACK COUNTDOWN 22 Sep 2026 08:00 WIB - runs even if Elementor fails
+document.addEventListener("DOMContentLoaded", function(){
+  const wrapper = document.querySelector(".elementor-countdown-wrapper");
+  if(!wrapper) return;
+  const ts = parseInt(wrapper.getAttribute("data-date"),10);
+  if(!ts) return;
+  const target = ts * 1000;
+  const dEl = wrapper.querySelector(".elementor-countdown-days");
+  const hEl = wrapper.querySelector(".elementor-countdown-hours");
+  const mEl = wrapper.querySelector(".elementor-countdown-minutes");
+  const sEl = wrapper.querySelector(".elementor-countdown-seconds");
+  function pad(n){ return String(n).padStart(2,"0"); }
+  function tick(){
+    let diff = target - Date.now();
+    if(diff < 0) diff = 0;
+    const d = Math.floor(diff/86400000); diff %= 86400000;
+    const h = Math.floor(diff/3600000); diff %= 3600000;
+    const m = Math.floor(diff/60000); diff %= 60000;
+    const sec = Math.floor(diff/1000);
+    if(dEl) dEl.textContent = pad(d);
+    if(hEl) hEl.textContent = pad(h);
+    if(mEl) mEl.textContent = pad(m);
+    if(sEl) sEl.textContent = pad(sec);
+  }
+  tick();
+  setInterval(tick, 1000);
+  // ensure visible
+  wrapper.style.opacity = "1";
+  wrapper.style.visibility = "visible";
+});
+</script>
+
 </body>
 </html>
