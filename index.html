@@ -3,6 +3,44 @@
 <html lang="en-US">
 <head>
 <meta charset="utf-8"/>
+<script>
+// Suppress Elementor ChunkLoadError (countdown/gallery) that blocks window.load and music
+window.addEventListener("unhandledrejection", function(e){
+  if(e.reason && e.reason.message && e.reason.message.indexOf("ChunkLoadError") !== -1){
+    e.preventDefault();
+    console.warn("[fix] ChunkLoadError suppressed:", e.reason.message);
+  }
+});
+window.addEventListener("error", function(e){
+  if(e.message && e.message.indexOf("ChunkLoadError") !== -1){
+    e.preventDefault();
+    console.warn("[fix] Chunk error suppressed");
+    return true;
+  }
+});
+// Fallback for __webpack_require__.e to prevent attachDocumentClass crash
+(function(){
+  const orig = window.__webpack_require__ && window.__webpack_require__.e;
+  // will patch after webpack loads too
+  function patch(){
+    if(window.__webpack_require__ && window.__webpack_require__.e && !window.__webpack_require__.e.__patched){
+      const _e = window.__webpack_require__.e;
+      window.__webpack_require__.e = function(chunkId){
+        return _e.call(this, chunkId).catch(function(err){
+          console.warn("[fix] chunk", chunkId, "failed, fallback", err && err.message);
+          return Promise.resolve(); // resolve to avoid breaking chain
+        });
+      };
+      window.__webpack_require__.e.__patched = true;
+    }
+  }
+  document.addEventListener("DOMContentLoaded", patch);
+  // try early polling
+  let t = setInterval(()=>{ if(window.__webpack_require__){ patch(); } }, 500);
+  setTimeout(()=>clearInterval(t), 10000);
+})();
+</script>
+
 <style>
 #wpadminbar #wp-admin-bar-wccp_free_top_button .ab-icon:before {
 	content: "\f160";
@@ -489,43 +527,43 @@ if(e)
 <div class="elementor-element elementor-element-d1c5a86 elementor-widget elementor-widget-gallery" data-e-type="widget" data-element_type="widget" data-id="d1c5a86" data-settings='{"gallery_layout":"justified","ideal_row_height":{"unit":"px","size":300,"sizes":[]},"gap_mobile":{"unit":"px","size":8,"sizes":[]},"lazyload":"yes","ideal_row_height_tablet":{"unit":"px","size":150,"sizes":[]},"ideal_row_height_mobile":{"unit":"px","size":150,"sizes":[]},"gap":{"unit":"px","size":10,"sizes":[]},"gap_tablet":{"unit":"px","size":10,"sizes":[]},"link_to":"file","overlay_background":"yes","content_hover_animation":"fade-in"}' data-widget_type="gallery.default">
 <div class="elementor-widget-container">
 <div class="elementor-gallery__container">
-<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-elementor-lightbox-title="Gallery 1" data-elementor-open-lightbox="yes" href="./galeri.jpeg">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-title="Gallery 1" data-lightbox="fallback" href="./galeri.jpeg">
 <div aria-label="" class="e-gallery-image elementor-gallery-item__image" data-height="1600" data-thumbnail="./galeri.jpeg" data-width="1066" role="img"></div>
 <div class="elementor-gallery-item__overlay"></div>
 </a>
-<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-elementor-lightbox-title="Gallery 2" data-elementor-open-lightbox="yes" href="./galeri2.jpeg">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-title="Gallery 2" data-lightbox="fallback" href="./galeri2.jpeg">
 <div aria-label="" class="e-gallery-image elementor-gallery-item__image" data-height="1537" data-thumbnail="./galeri2.jpeg" data-width="1023" role="img"></div>
 <div class="elementor-gallery-item__overlay"></div>
 </a>
-<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-elementor-lightbox-title="Gallery 3" data-elementor-open-lightbox="yes" href="./galeri3.jpeg">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-title="Gallery 3" data-lightbox="fallback" href="./galeri3.jpeg">
 <div aria-label="" class="e-gallery-image elementor-gallery-item__image" data-height="1600" data-thumbnail="./galeri3.jpeg" data-width="1066" role="img"></div>
 <div class="elementor-gallery-item__overlay"></div>
 </a>
-<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-elementor-lightbox-title="Gallery 4" data-elementor-open-lightbox="yes" href="./galeri5.jpeg">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-title="Gallery 4" data-lightbox="fallback" href="./galeri5.jpeg">
 <div aria-label="" class="e-gallery-image elementor-gallery-item__image" data-height="1600" data-thumbnail="./galeri5.jpeg" data-width="1066" role="img"></div>
 <div class="elementor-gallery-item__overlay"></div>
 </a>
-<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-elementor-lightbox-title="Gallery 5" data-elementor-open-lightbox="yes" href="./galeri4.jpeg">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-title="Gallery 5" data-lightbox="fallback" href="./galeri4.jpeg">
 <div aria-label="" class="e-gallery-image elementor-gallery-item__image" data-height="1600" data-thumbnail="./galeri4.jpeg" data-width="1066" role="img"></div>
 <div class="elementor-gallery-item__overlay"></div>
 </a>
-<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-elementor-lightbox-title="Gallery 6" data-elementor-open-lightbox="yes" href="./galeri10.jpg">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-title="Gallery 6" data-lightbox="fallback" href="./galeri10.jpg">
 <div aria-label="" class="e-gallery-image elementor-gallery-item__image" data-height="1280" data-thumbnail="./galeri10.jpg" data-width="853" role="img"></div>
 <div class="elementor-gallery-item__overlay"></div>
 </a>
-<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-elementor-lightbox-title="Gallery 7" data-elementor-open-lightbox="yes" href="./galeri7.jpg">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-title="Gallery 7" data-lightbox="fallback" href="./galeri7.jpg">
 <div aria-label="" class="e-gallery-image elementor-gallery-item__image" data-height="1280" data-thumbnail="./galeri7.jpg" data-width="853" role="img"></div>
 <div class="elementor-gallery-item__overlay"></div>
 </a>
-<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-elementor-lightbox-title="Gallery 8" data-elementor-open-lightbox="yes" href="./galeri9.jpg">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-title="Gallery 8" data-lightbox="fallback" href="./galeri9.jpg">
 <div aria-label="" class="e-gallery-image elementor-gallery-item__image" data-height="1280" data-thumbnail="./galeri9.jpg" data-width="853" role="img"></div>
 <div class="elementor-gallery-item__overlay"></div>
 </a>
-<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-elementor-lightbox-title="Gallery 9" data-elementor-open-lightbox="yes" href="./galeri8.jpg">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-title="Gallery 9" data-lightbox="fallback" href="./galeri8.jpg">
 <div aria-label="" class="e-gallery-image elementor-gallery-item__image" data-height="1280" data-thumbnail="./galeri8.jpg" data-width="853" role="img"></div>
 <div class="elementor-gallery-item__overlay"></div>
 </a>
-<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-elementor-lightbox-title="Gallery 10" data-elementor-open-lightbox="yes" href="./galeri6.jpeg">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" data-elementor-lightbox-slideshow="d1c5a86" data-title="Gallery 10" data-lightbox="fallback" href="./galeri6.jpeg">
 <div aria-label="" class="e-gallery-image elementor-gallery-item__image" data-height="1066" data-thumbnail="./galeri6.jpeg" data-width="1600" role="img"></div>
 <div class="elementor-gallery-item__overlay"></div>
 </a>
@@ -718,12 +756,12 @@ if(e)
 					}
 					</style>
 											<div class="our-gallery-grid">
-							<a href="./galeri6.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="our-gallery" data-elementor-lightbox-title="Gallery 1"><img loading="lazy" decoding="async" src="./galeri6.jpeg" alt="Gallery 1"></a>
-							<a href="./galeri5.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="our-gallery" data-elementor-lightbox-title="Gallery 2"><img loading="lazy" decoding="async" src="./galeri5.jpeg" alt="Gallery 2"></a>
-							<a href="./galeri4.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="our-gallery" data-elementor-lightbox-title="Gallery 3"><img loading="lazy" decoding="async" src="./galeri4.jpeg" alt="Gallery 3"></a>
-							<a href="./galeri3.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="our-gallery" data-elementor-lightbox-title="Gallery 4"><img loading="lazy" decoding="async" src="./galeri3.jpeg" alt="Gallery 4"></a>
-							<a href="./galeri2.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="our-gallery" data-elementor-lightbox-title="Gallery 5"><img loading="lazy" decoding="async" src="./galeri2.jpeg" alt="Gallery 5"></a>
-							<a href="./galeri.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="our-gallery" data-elementor-lightbox-title="Gallery 6"><img loading="lazy" decoding="async" src="./galeri.jpeg" alt="Gallery 6"></a>
+							<a href="./galeri6.jpeg" data-lightbox="fallback"  data-title="Gallery 1"><img loading="lazy" decoding="async" src="./galeri6.jpeg" alt="Gallery 1"></a>
+							<a href="./galeri5.jpeg" data-lightbox="fallback"  data-title="Gallery 2"><img loading="lazy" decoding="async" src="./galeri5.jpeg" alt="Gallery 2"></a>
+							<a href="./galeri4.jpeg" data-lightbox="fallback"  data-title="Gallery 3"><img loading="lazy" decoding="async" src="./galeri4.jpeg" alt="Gallery 3"></a>
+							<a href="./galeri3.jpeg" data-lightbox="fallback"  data-title="Gallery 4"><img loading="lazy" decoding="async" src="./galeri3.jpeg" alt="Gallery 4"></a>
+							<a href="./galeri2.jpeg" data-lightbox="fallback"  data-title="Gallery 5"><img loading="lazy" decoding="async" src="./galeri2.jpeg" alt="Gallery 5"></a>
+							<a href="./galeri.jpeg" data-lightbox="fallback"  data-title="Gallery 6"><img loading="lazy" decoding="async" src="./galeri.jpeg" alt="Gallery 6"></a>
 						</div>
 				</div>
 				</div>
@@ -1866,6 +1904,33 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 <!-- Trigger GitHub Actions Deploy -->
+
+
+<style>
+.fallback-lightbox{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:99999;padding:20px}
+.fallback-lightbox.open{display:flex}
+.fallback-lightbox img{max-width:90vw;max-height:90vh;border-radius:10px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
+.fallback-lightbox .close{position:absolute;top:18px;right:18px;color:#fff;font-size:32px;cursor:pointer;line-height:1}
+</style>
+<div id="fallbackLightbox" class="fallback-lightbox"><span class="close">&times;</span><img alt=""></div>
+<script>
+document.addEventListener("DOMContentLoaded", function(){
+  const lb=document.getElementById("fallbackLightbox");
+  if(!lb) return;
+  const img=lb.querySelector("img"), close=lb.querySelector(".close");
+  function open(src){ img.src=src; lb.classList.add("open"); document.body.style.overflow="hidden"; }
+  function shut(){ lb.classList.remove("open"); document.body.style.overflow=""; img.src=""; }
+  close.addEventListener("click", shut);
+  lb.addEventListener("click", function(e){ if(e.target===lb) shut(); });
+  document.addEventListener("keydown", function(e){ if(e.key==="Escape") shut(); });
+  document.querySelectorAll("[data-lightbox=\"fallback\"]").forEach(a=>{
+    a.addEventListener("click", function(e){
+      e.preventDefault();
+      open(this.getAttribute("href"));
+    });
+  });
+});
+</script>
 
 <script>
 // FALLBACK COUNTDOWN 22 Sep 2026 08:00 WIB - runs even if Elementor fails
